@@ -1,3 +1,3 @@
 # MichaelKorenchanMP1
 
-Developed with Unreal Engine 4
+For CS 498-GD MP1
